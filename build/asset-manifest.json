@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8ddbf7ce.css",
-    "main.js": "/static/js/main.ecea4de3.js",
+    "main.js": "/static/js/main.27685685.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/seedAtlas_img.png": "/static/media/seedAtlas_img.5663d2e96dee643aea8a.png",
     "static/media/20220605_162304.jpg": "/static/media/20220605_162304.691861afa5ebebe25014.jpg",
@@ -21,12 +21,13 @@
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/IMG_20220101_175213.jpg": "/static/media/IMG_20220101_175213.9476926ad78c6e0b7d6d.jpg",
     "static/media/shubham_kodai_img.png": "/static/media/shubham_kodai_img.d965aa74b3c51f263208.png",
-    "static/media/WhatsApp Image 2023-04-09 at 00.31.17.jpg": "/static/media/WhatsApp Image 2023-04-09 at 00.31.17.fef8e70a3ebb511a7723.jpg",
-    "static/media/WhatsApp Image 2023-04-09 at 00.32.07.jpg": "/static/media/WhatsApp Image 2023-04-09 at 00.32.07.90ab7ae3488739f880a2.jpg",
+    "static/media/13.jpg": "/static/media/13.fef8e70a3ebb511a7723.jpg",
+    "static/media/14.jpg": "/static/media/14.90ab7ae3488739f880a2.jpg",
     "static/media/lap_img.png": "/static/media/lap_img.690eaeb57d26369b99da.png",
     "static/media/8.jpg": "/static/media/8.a4243eec74c1ffab0771.jpg",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/15.jpg": "/static/media/15.075c70001238c43f40c2.jpg",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/social_img.jpg": "/static/media/social_img.b2972cbe101a2e540fa1.jpg",
     "static/media/7.jpg": "/static/media/7.7a257adcd01e54fc2f91.jpg",
@@ -47,11 +48,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.8ddbf7ce.css.map": "/static/css/main.8ddbf7ce.css.map",
-    "main.ecea4de3.js.map": "/static/js/main.ecea4de3.js.map",
+    "main.27685685.js.map": "/static/js/main.27685685.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ddbf7ce.css",
-    "static/js/main.ecea4de3.js"
+    "static/js/main.27685685.js"
   ]
 }
